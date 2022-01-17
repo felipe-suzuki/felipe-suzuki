@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS, BOOTSTRAP and JAVASCRIPT
 - 💞️ I’m looking to collaborate on volunteer projects to get hands on experience
 - 📫 Reach me at: 
-- [<img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/>](https://www.linkedin.com/in/luiz-felipe-suzuki-234bb5ab/)&nbsp;
+- [<img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/>](https://www.linkedin.com/in/luiz-felipe-suzuki-234bb5ab/)&nbsp; [<img src="https://img.icons8.com/color/24/000000/gmail--v1.png"/>](mailto:felipe.suzukix@gmail.com)
   
 <!---
 felipe-suzuki/felipe-suzuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
