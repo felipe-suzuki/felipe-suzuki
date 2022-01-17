@@ -1,6 +1,6 @@
 <style>
   ul {
-    list-style-type: none;
+    list-style: none;
   }
 </style> 
 
