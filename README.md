@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development - Front End
 - 🌱 I’m currently learning HTML, CSS, BOOTSTRAP and JAVASCRIPT
 - 💞️ I’m looking to collaborate on volunteer projects to get hands on experience
-- 📫 Reach me at: &nbsp; [<img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/>](https://www.linkedin.com/in/luiz-felipe-suzuki-234bb5ab/) 
+- 📫 Reach me at: 
 - [<img src="https://img.icons8.com/fluency/24/000000/linkedin.png"/>](https://www.linkedin.com/in/luiz-felipe-suzuki-234bb5ab/)&nbsp;
   
 <!---
